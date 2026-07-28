@@ -8,8 +8,8 @@
   <h1 align="center">
     Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm XiaoCe
   </h1>
-  <p align="center">🤗 Focused on backend development and AI application development 👨‍💻</p>
-  <p align="center">🎓 Hunan Institute of Science and Technology</p>
+  <p align="center">👨‍💻 Focused on backend development and AI application development</p>
+  <p align="center">🎓 From Hunan Institute of Science and Technology</p>
 </p>
 
 <div align="center">
