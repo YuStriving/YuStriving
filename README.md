@@ -1,7 +1,7 @@
 <!-- 标题 + 个人描述 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&random=false&width=860&lines=Build+small%2C+ship+fast%2C+stay+curious." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&random=false&width=980&lines=Though+poor%2C+I+grow+ever+stronger%2C+and+never+abandon+my+lofty+ambition." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -50,4 +50,3 @@
     </td>
   </tr>
 </table>
-
