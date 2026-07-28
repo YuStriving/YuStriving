@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220" fill="none" role="img" aria-label="metrics placeholder">
+  <rect width="800" height="220" fill="#0D1117"/>
+  <rect x="24" y="24" width="752" height="172" rx="10" fill="#161B22" stroke="#30363D"/>
+  <text x="400" y="108" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" text-anchor="middle">metrics.plugin.isocalendar.svg</text>
+  <text x="400" y="140" fill="#58A6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" text-anchor="middle">Generated on GitHub Actions</text>
+</svg>

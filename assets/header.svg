@@ -1,0 +1,12 @@
+<svg width="1400" height="260" viewBox="0 0 1400 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Profile header</title>
+  <desc id="desc">Dark profile-style header with a centered greeting.</desc>
+  <rect width="1400" height="260" rx="16" fill="#0D1117"/>
+  <rect x="1" y="1" width="1398" height="258" rx="15" stroke="#30363D"/>
+
+  <text x="40" y="40" fill="#F0F6FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700">your-username / README.md</text>
+
+  <text x="700" y="135" fill="#58A6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="34" font-weight="600" text-anchor="middle">Hi, I'm your-username 👋</text>
+
+  <line x1="36" y1="188" x2="1364" y2="188" stroke="#30363D" stroke-width="6" stroke-linecap="round"/>
+</svg>
